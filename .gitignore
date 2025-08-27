@@ -1,0 +1,10 @@
+__pycache__
+.venv/
+db_faces_clean/
+db_faces_clean_selected/
+db_faces_clean_selected_undersampled/
+db_faces_clean_undersampled/
+db_faces_undersampled_ori/
+disgust_fear_pyfeat/
+FIX_LATIH_UJI/
+output_db_faces_undersampled_ori/
